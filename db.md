@@ -10,6 +10,9 @@
 * Cockroack
 * 
 
+##SQL 
+* [SQL Optimization](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
+
 ## Streaming
 * [Log based Real time data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
