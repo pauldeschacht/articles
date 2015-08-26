@@ -5,9 +5,14 @@
 
 ##Distributed Databases
 
+* [BigTable](http://research.google.com/archive/bigtable-osdi06.pdf)
 * HBase
-* LevelDB, RockDB
-* Cockroack
+* [Log Structured Merge Tree](http://www.cs.umb.edu/~poneil/lsmtree.pdf)
+* [LevelDB (article)](http://highscalability.com/blog/2011/8/10/leveldb-fast-and-lightweight-keyvalue-database-from-the-auth.html)
+* [RocksDB](http://rocksdb.org/)
+* [Megastore](http://research.google.com/pubs/archive/36971.pdf)
+* [Spanner](http://research.google.com/archive/spanner-osdi2012.pdf)
+* [Cockroach](https://github.com/cockroachdb/cockroach#design)
 * 
 
 ##SQL 
