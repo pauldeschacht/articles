@@ -30,3 +30,8 @@
 
 * [Paxos made simple (pdf)](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * [In Search of an Understandable Consensus Algorithm (pdf)](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
+
+
+##Math
+* [A Computational Introduction to Number Theory
+and Algebra (pdf)] (http://www.shoup.net/ntb/ntb-v2.pdf)
