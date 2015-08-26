@@ -22,8 +22,9 @@
 * [Log based Real time data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 ##Functional Programming
-
+* [Can Programming be liberated from von Neumann style](https://web.stanford.edu/class/cs242/readings/backus.pdf)
 * [Why functional programming matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+* [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
 
 ##Consensus
 
