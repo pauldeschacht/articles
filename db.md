@@ -35,3 +35,6 @@
 ##Math
 * [A Computational Introduction to Number Theory
 and Algebra (pdf)] (http://www.shoup.net/ntb/ntb-v2.pdf)
+
+##Machine Learning
+* [Free ebooks](http://www.learndatasci.com/free-books/)
