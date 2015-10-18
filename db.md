@@ -2,6 +2,7 @@
 
 * [map-reduce (pdf)](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [google dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow)
+* [Spark RDD (pdf)](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 
 ##Distributed 
 ###Systems
