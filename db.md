@@ -2,12 +2,13 @@
 
 * [map-reduce (pdf)](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [google dataflow](https://cloud.google.com/dataflow/what-is-google-cloud-dataflow)
+* [google Dremel (pdf)](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 * [Spark RDD (pdf)](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 
-##Distributed 
-###Systems
-* [Time,Clocks and Ordering of Events by Lamport]http://amturing.acm.org/p558-lamport.pdf
-* 
+##Distributed Systems
+
+* [Time,Clocks and Ordering of Events by Lamport](http://amturing.acm.org/p558-lamport.pdf)
+
 ###Databases
 
 * [BigTable](http://research.google.com/archive/bigtable-osdi06.pdf)
